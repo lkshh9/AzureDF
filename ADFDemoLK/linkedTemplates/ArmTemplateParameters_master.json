@@ -7,6 +7,12 @@
 		},
 		"linkedservice_StorageDemoLokesh_connectionString": {
 			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
 		}
 	}
 }
