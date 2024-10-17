@@ -1,6 +1,6 @@
 # Azure Data Factory (ADF) - Copy Data from One Dataset to Another
 
-### Project Overview
+## Project Overview
 The objective of this project is to copy data from one dataset (the source) to another dataset (the destination) using Azure Data Factory. 
 This could involve moving data between storage services (like Azure Blob Storage, SQL Database, or on-premises databases) while ensuring reliability, monitoring, and handling errors during data movement.
 
@@ -10,7 +10,7 @@ This GitHub repository contains the necessary code and configurations to set up 
 
 **This is a common task in data engineering, where data needs to be moved or transformed between different storage systems or formats.**
 
-### Key Concepts Demonstrated in the Project
+## Key Concepts Demonstrated in the Project
 
   - ETL (Extract, Transform, Load): This project demonstrates the Extract and Load parts of ETL, as data is extracted from a source (Blob Storage) and loaded into a destination (SQL database or another storage service).
 
